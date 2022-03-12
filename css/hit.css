@@ -1,0 +1,153 @@
+
+        body {
+            font-family: arial, verdana, sans-serif;
+            color: green;
+            background: linear-gradient(to left, #56ab2f, 25%, #2c3e50);
+            width: 90%;
+            margin: 0 auto
+        }
+
+        th {
+            text-transform: uppercase;
+            font-size: 1em;
+            text-align: left;
+            border-bottom: 2px solid black;
+            border-top: 2px solid #999;
+            letter-spacing: 0.1em;
+        }
+
+        table {
+            width: 50%;
+            margin-top: 10%;
+        }
+
+        th,
+        td {
+            padding: 10px;
+        }
+
+        .ish {
+            text-align: right
+        }
+
+        .design {
+            background-color: #efefef
+        }
+
+        tr:hover {
+            background-color: #c3e6e5;
+        }
+
+        .ink {
+            border-bottom: 90px solid black
+        }
+
+        fieldset {
+            height: 35%;
+            width: 15%;
+            background: linear-gradient(#cc2b5e, 25%, #753a88);
+            border: 1px solid black;
+            border-radius: 10px 10px 10px 10px;
+            text-shadow: 0px 1px 1px #ffffff;
+            margin-left: 40%;
+            margin-top: 5%;
+            box-shadow: 2px 2px 10px black, -2px -2px 10px #2c3e50
+        }
+
+        input {
+            margin: 10px;
+            font-size: 1em;
+            padding: 4px 30px 4px 30px;
+            border: 1px solid #bdbdbd;
+            background: #ecf0f3;
+            border-radius: 6px;
+            color: #5a5854;
+            box-shadow: inset 7px 7px 7px #cbcde1, inset -7px -7px 7px white;
+        }
+
+        button {
+            margin: 40px 15px 15px 45px;
+            font-size: 1em;
+            padding: 4px 40px 4px 40px;
+            background-color: #efefef;
+            border: 1px solid black;
+            border-radius: 50px;
+            border-bottom: 1px solid black;
+            box-shadow: 4px 4px 2px black;
+            transition: 0.5s;
+        }
+
+        p {
+            color: #ffffff;
+        }
+
+        input:hover {
+            background: #ffffff;
+            border: 1px solid #212529
+        }
+
+        button:hover {
+            color: #ffffff;
+            background-color: #212529;
+            cursor: pointer;
+        }
+
+        .head th:first-child {
+            border-top-left-radius: 5px;
+        }
+
+        .head th:last-child {
+            border-top-right-radius: 5px;
+        }
+
+        .fire {
+            position: relative;
+            top: 50px;
+            left: 100px;
+            width: 1500px
+        }
+
+        h1 {
+            position: fixed;
+            top: 0px;
+            left: 5px;
+        }
+
+        .irk {
+            width: 15%;
+            margin: 1%;
+            margin-top: 100px;
+            float: left;
+            padding: 1.2em;
+            background-color: white;
+            color: black;
+            border: 1px solid black;
+            border-radius: 10px 10px 10px 10px
+        }
+
+        .jeez {
+            width: 15%;
+            float: left;
+            background-color: white;
+            color: black;
+            border: 1px solid black;
+            border-radius: 10px 10px 10px 10px;
+            padding: 1.2em;
+            margin-left: 1%;
+            margin-top: 1%;
+            margin-bottom: 4%
+        }
+
+        .silly {
+            float: right;
+            width: 15%;
+            border: 1px solid black;
+            color: black;
+            position: relative;
+            bottom: 0px;
+            right: 500px;
+            margin: 1%;
+            padding: 1.2em;
+            background-color: white;
+            border-radius: 15px 15px 15px 15px
+        }
