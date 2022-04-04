@@ -91,7 +91,7 @@
         /* :focus{outline: 1px solid peachpuff}
 
         :focus:not(:focus-visible) {outline:none} */
-        :focus-visible{outline: 1px solid green}
+        :focus-visible{outline: 1px solid purple}
     
 
         button:hover {
